@@ -1,2 +1,22 @@
-# Blinkit-Sales-Analytics-Dashboard
-End-to-end Power BI dashboard analyzing Blinkit sales trends, KPIs, and business intelligence using Power Query and DAX.
+# 🛒 Blinkit Sales Analytics Dashboard
+
+## 📌 Project Overview
+An end-to-end Business Intelligence dashboard built in Power BI
+to analyze Blinkit's sales performance, KPIs, and customer trends.
+
+## 🛠️ Tools Used
+- Power BI (Power Query, DAX)
+- Microsoft Excel
+
+## 📊 Key Features
+- Interactive dashboard with slicers and drill-downs
+- Sales trend analysis by category and time period
+- KPI tracking: Revenue, Orders, Average Order Value
+
+## 💡 Key Insights
+- Identified top-performing product categories
+- Visualized peak sales periods for better inventory planning
+- Enabled data-driven decision making through dynamic visuals
+
+## 📸 Dashboard Preview
+![Dashboard](screenshots/dashboard.png)
