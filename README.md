@@ -19,4 +19,5 @@ to analyze Blinkit's sales performance, KPIs, and customer trends.
 - Enabled data-driven decision making through dynamic visuals
 
 ## 📸 Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+<img width="1185" height="775" alt="image" src="https://github.com/user-attachments/assets/667ae261-c88e-4239-8a9b-e7ea1d40d152" />
+
